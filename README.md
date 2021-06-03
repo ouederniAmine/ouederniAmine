@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Amine.
+## I'm Amine Ouederni.
 
 ### 💻 &nbsp;About Me 
 
