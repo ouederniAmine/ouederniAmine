@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Junior Full stack Web  dev and a high school student.
+- 🎓 &nbsp; Junior Full stack Web dev and a Software Engineering student.
 
 
 ### 🛠 &nbsp;Tech Stack
